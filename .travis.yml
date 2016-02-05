@@ -1,0 +1,2 @@
+script:
+ - tail -1 .mdh
